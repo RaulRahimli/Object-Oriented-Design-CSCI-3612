@@ -2,7 +2,7 @@ Name: Raul Rahimli
 Student ID: 19808
 Class: Object Oriented Analysis & Design
 CRN: 20966
-Project name: Multiple Readers, Single Writer
+`Project name`: **Multiple Readers, Single Writer**
 
 
 ## Project Overview
@@ -71,5 +71,6 @@ Make sure these files are in the same directory:
 
 2. Compile
 Open a terminal in the project folder and run:
+
 
 "javac Main.java RingBuffer.java Reader.java Writer.java"
